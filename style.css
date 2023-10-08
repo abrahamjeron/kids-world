@@ -1,0 +1,135 @@
+header{
+    position: relative;
+}
+#logo{
+    position: relative;
+    top: 75px ;
+    height: 25px;
+    left: 50px;
+}
+.cart{
+    position: relative;
+    display: flex ;
+    justify-content: flex-end;
+    right: 45px;
+    top: 45px;
+}
+#cart{
+    position: relative;
+    height: 30px;
+}
+#text{
+    position: relative;
+    bottom: 13px;
+    font-weight: bold;
+    
+}
+.content{
+    background-image: url("./kidz-world-html-boilerplate/assets/kw-background.png");
+    background-size: 100% 110%;
+    bottom: 120px;
+}
+#line{
+    font-size: 4rem;
+    position: relative;
+    left: 50px;
+    top: 40px;
+    color: white;
+}
+#hastric{
+    position: relative;
+    bottom: 60px;
+    left: 50px;
+    padding-top: 100px;
+    color: white;
+}
+.scroll-1{
+    position: relative;
+    top: 120px;
+}
+.addbtn{
+    background-color: rgb(84, 84, 237);
+    border-radius: 5px;
+    width: 70px;
+}
+#cartimg{
+    height: 20px;
+    position: relative;
+    top: 3px;
+}
+#add{
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+}
+#bookimg11{
+    height: 260px;
+}
+#heading{
+    font-size: 1.5rem;
+    font-weight: bold;
+    position: relative;
+    left: 35px;
+}
+.books{
+    position: relative;
+    left: 35px;
+}
+.descriptions{
+    font-weight: bold;
+}
+.authors{
+    position: relative;
+    bottom: 10px;
+    color: rgba(0, 0, 0, 0.645);
+    font-size: small;
+}
+.addbtn{
+    position: relative;
+    bottom: 50px;
+    left: 115px;
+}
+.prices{
+    position: relative;
+    bottom: 10px;
+}
+.books{
+    position: relative;
+    right: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.addbtn1{
+    background-color: rgb(84, 84, 237);
+    border-radius: 5px;
+    width: 70px;
+    position: relative;
+    left: 200px;
+    bottom: 48px;
+}
+footer{
+    position: relative;
+    top: 300px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    
+}
+#krishti{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+#br,#krishti,#kr,#made{
+    color: white;
+    text-align: right;
+}
+.one{
+    position: relative;
+    left: 80px;
+}
+.two{
+    position: relative;
+    top: 50px;
+    right: 80px;
+}
